@@ -214,7 +214,7 @@
             this.Controls.Add(this.progressBar);
             this.Controls.Add(this.startBtn);
             this.Name = "DownloadFrm";
-            this.Text = "Down Any File";
+            this.Text = "Download Any File";           
             this.ResumeLayout(false);
             this.PerformLayout();
 

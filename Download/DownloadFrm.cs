@@ -116,10 +116,5 @@ namespace Download
                 Environment.SpecialFolder root = folderBrowserDialog1.RootFolder;
             }
         }
-
-        private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
-        {
-
-        }
     }
 }
